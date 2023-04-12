@@ -1,0 +1,9 @@
+# Project binaries
+RoboCar.out
+objs/
+
+# Clion
+.idea
+
+# VSCode
+.vscode
